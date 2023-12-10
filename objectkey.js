@@ -1,5 +1,5 @@
 //objectkey
-let person = {
+var person = {
   name: 'Alice',
   age: 30,
   city: 'New York'
