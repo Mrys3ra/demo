@@ -1,3 +1,4 @@
+//array vs object
 //array - use indices
 let myArray = ['apple', 'banana', 'orange'];
 console.log(myArray[0]); // Output: 'apple'
