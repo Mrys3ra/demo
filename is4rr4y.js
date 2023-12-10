@@ -1,3 +1,4 @@
+//array.isArray
 let arr = [1, 2, 3];
 let notArr = "Hello";
 
