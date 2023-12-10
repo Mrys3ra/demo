@@ -1,3 +1,4 @@
+//objectsyntax
 //objectName.property
 var person = {
   name: 'Alice',
