@@ -1,3 +1,4 @@
+//constructor
 let arr1 = new Array(3)
 arr1[0] = 10;
 arr1[1] = 20;
