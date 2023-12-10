@@ -1,3 +1,4 @@
+//protoypesom
 let numbers = [1, 2, 3, 4, 5];
 
 // Check if at least one element is greater than 3
