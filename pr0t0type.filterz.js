@@ -1,3 +1,4 @@
+//prototypefilter
 let numbers = [1, 2, 3, 4, 5, 6];
 
 // Filter elements greater than 3
