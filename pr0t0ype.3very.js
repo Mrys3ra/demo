@@ -1,3 +1,4 @@
+//protoypeevery
 let numbers = [1, 2, 3, 4, 5];
 
 // Check if all elements are less than 10
